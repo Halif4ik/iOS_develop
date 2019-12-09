@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModuleTwo/Controller/MyTVController.swift"
+            timestampString = "589296310.868706"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModuleOne.MyTVController.usersArray.getter : Swift.Array&lt;ModuleOne.User&gt;"
+                  moduleName = "ModuleOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimas/MEGA/onix/EtapTree/ModuleOne/ModuleTwo/Controller/MyTVController.swift"
+                  timestampString = "588075073.275229"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModuleOne.MyTVController.usersArray.setter : Swift.Array&lt;ModuleOne.User&gt;"
+                  moduleName = "ModuleOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimas/MEGA/onix/EtapTree/ModuleOne/ModuleTwo/Controller/MyTVController.swift"
+                  timestampString = "588075073.2805279"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModuleOne.MyTVController.usersArray.modify : Swift.Array&lt;ModuleOne.User&gt;"
+                  moduleName = "ModuleOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimas/MEGA/onix/EtapTree/ModuleOne/ModuleTwo/Controller/MyTVController.swift"
+                  timestampString = "588075073.282508"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModuleOne.MyTVController.usersArray.modify : Swift.Array&lt;ModuleOne.User&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ModuleOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimas/MEGA/onix/EtapTree/ModuleOne/ModuleTwo/Controller/MyTVController.swift"
+                  timestampString = "588075073.285924"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModuleOne.MyTVController.init(style: __C.UITableViewStyle) -&gt; ModuleOne.MyTVController"
+                  moduleName = "ModuleOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimas/MEGA/onix/EtapTree/ModuleOne/ModuleTwo/Controller/MyTVController.swift"
+                  timestampString = "588075073.288115"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "243">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModuleOne.MyTVController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ModuleOne.MyTVController"
+                  moduleName = "ModuleOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimas/MEGA/onix/EtapTree/ModuleOne/ModuleTwo/Controller/MyTVController.swift"
+                  timestampString = "588075073.290233"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModuleOne.MyTVController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ModuleOne.MyTVController&gt;"
+                  moduleName = "ModuleOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimas/MEGA/onix/EtapTree/ModuleOne/ModuleTwo/Controller/MyTVController.swift"
+                  timestampString = "588075073.292125"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "251">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModuleTwo/Controller/MyTVController.swift"
+            timestampString = "589296310.8694"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModuleTwo/Controller/MyTVController.swift"
+            timestampString = "589296310.86975"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModuleTwo/Controller/ViewController.swift"
+            timestampString = "588076861.57197"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModuleTwo/Controller/MyTVController.swift"
+            timestampString = "589296310.870123"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModuleOne.MyTVController.init(style: __C.UITableViewStyle) -&gt; ModuleOne.MyTVController"
+                  moduleName = "ModuleOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimas/MEGA/onix/EtapTree/ModuleOne/ModuleTwo/Controller/MyTVController.swift"
+                  timestampString = "588075065.150492"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "243">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModuleOne.MyTVController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ModuleOne.MyTVController"
+                  moduleName = "ModuleOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimas/MEGA/onix/EtapTree/ModuleOne/ModuleTwo/Controller/MyTVController.swift"
+                  timestampString = "588075065.152483"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModuleOne.MyTVController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ModuleOne.MyTVController&gt;"
+                  moduleName = "ModuleOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimas/MEGA/onix/EtapTree/ModuleOne/ModuleTwo/Controller/MyTVController.swift"
+                  timestampString = "588075065.154317"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "251">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModuleTwo/Controller/MyTVController.swift"
+            timestampString = "589296310.870608"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModuleOne.MyTVController.userStoreDefault.getter : __C.NSUserDefaults"
+                  moduleName = "ModuleOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimas/MEGA/onix/EtapTree/ModuleOne/ModuleTwo/Controller/MyTVController.swift"
+                  timestampString = "588075073.352602"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModuleOne.MyTVController.userStoreDefault.setter : __C.NSUserDefaults"
+                  moduleName = "ModuleOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimas/MEGA/onix/EtapTree/ModuleOne/ModuleTwo/Controller/MyTVController.swift"
+                  timestampString = "588075073.354183"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModuleOne.MyTVController.userStoreDefault.modify : __C.NSUserDefaults"
+                  moduleName = "ModuleOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimas/MEGA/onix/EtapTree/ModuleOne/ModuleTwo/Controller/MyTVController.swift"
+                  timestampString = "588075073.355957"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModuleOne.MyTVController.userStoreDefault.modify : __C.NSUserDefaults with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ModuleOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimas/MEGA/onix/EtapTree/ModuleOne/ModuleTwo/Controller/MyTVController.swift"
+                  timestampString = "588075073.357495"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModuleOne.MyTVController.init(style: __C.UITableViewStyle) -&gt; ModuleOne.MyTVController"
+                  moduleName = "ModuleOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimas/MEGA/onix/EtapTree/ModuleOne/ModuleTwo/Controller/MyTVController.swift"
+                  timestampString = "588075073.36201"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModuleOne.MyTVController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ModuleOne.MyTVController"
+                  moduleName = "ModuleOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimas/MEGA/onix/EtapTree/ModuleOne/ModuleTwo/Controller/MyTVController.swift"
+                  timestampString = "588075073.36435"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "227">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModuleOne.MyTVController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ModuleOne.MyTVController&gt;"
+                  moduleName = "ModuleOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimas/MEGA/onix/EtapTree/ModuleOne/ModuleTwo/Controller/MyTVController.swift"
+                  timestampString = "588075073.367364"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModuleTwo/Controller/ViewController.swift"
+            timestampString = "588076861.573088"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "saveUserInArray(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModuleTwo/Controller/ViewController.swift"
+            timestampString = "588076861.573326"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModuleTwo/Controller/ViewController.swift"
+            timestampString = "588076861.573545"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "showNUserIntabViev(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModuleTwo/Controller/ViewController.swift"
+            timestampString = "588076861.573764"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "showNUserIntabViev(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModuleTwo/Controller/ViewController.swift"
+            timestampString = "588076861.573975"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModuleTwo/Controller/ViewController.swift"
+            timestampString = "588076861.574186"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModuleTwo/Controller/ViewController.swift"
+            timestampString = "588076861.574396"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "showNUserIntabViev(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
